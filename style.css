@@ -1,0 +1,103 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#conoce {
+    text-align: center;
+    font-size: 1rem;
+    margin-bottom: .5rem;
+    margin-top: .5rem;
+}
+
+#tituloOradores {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+
+.oradores {
+    display: flex;
+    justify-content: center;
+}
+
+.oradores div {
+    margin: .5rem;
+    margin-bottom: 1rem;
+}
+
+.orador {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    width: 250px;
+}
+
+.orador img {
+    width: 100%;
+}
+
+.contenido {
+    padding: .5rem;
+    font-size: smaller;
+}
+
+.botones {
+    margin: 0 0 1rem 0;
+}
+.orador a {
+    padding: .3rem;
+    font-size: .7rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.btn-amarillo {
+    background-color: rgb(254, 193, 6);
+    color: black;
+    font-weight: bold;
+}
+
+.btn-azul {
+    background-color: rgb(23, 162, 185);
+    color: white;
+    font-weight: bold;
+}
+
+.btn-rojo {
+    background-color: rgba(219, 7, 7, 0.801);
+    color: white;
+    font-weight: bold;
+}
+
+.btn-gris {
+    background-color: grey;
+    color: white;
+    font-weight: bold;
+}
+
+.titulo {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+#parrafoFormulario1 {
+    text-align: center;
+    font-size: 1rem;
+    margin-bottom: .5rem;
+    margin-top: .5rem;
+}
+
+.formulario {
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+#parrafoFormulario2 {    
+    font-size: .5rem;
+    margin-bottom: 1rem;
+}
+
+.footer {
+    background-color: rgb(4, 43, 82);
+    
+}
