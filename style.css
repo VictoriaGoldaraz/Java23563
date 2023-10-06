@@ -32,6 +32,10 @@ body {
     width: 250px;
 }
 
+.orador:hover {
+    box-shadow: 5px 5px 5px 5px grey;
+}
+
 .orador img {
     width: 100%;
 }
